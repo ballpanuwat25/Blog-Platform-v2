@@ -1,0 +1,84 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Mastering the Art of Programming",
+      "category": "Programming",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "John Doe",
+      "views": 1200
+    },
+    {
+      "id": 2,
+      "title": "A Healthy Lifestyle: Tips and Tricks",
+      "category": "Health",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "Jane Doe",
+      "views": 800
+    },
+    {
+      "id": 3,
+      "title": "Unleashing Creativity in Art",
+      "category": "Art",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "Artist123",
+      "views": 600
+    },
+    {
+      "id": 4,
+      "title": "Exploring the Wonders of Science",
+      "category": "Science",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "SpaceExplorer",
+      "views": 1500
+    },
+    {
+      "id": 5,
+      "title": "Journey Through History",
+      "category": "History",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "BudgetTraveler",
+      "views": 950
+    },
+    {
+      "id": 6,
+      "title": "Programming Insights",
+      "category": "Programming",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "ChefCookbook",
+      "views": 1100
+    },
+    {
+      "id": 7,
+      "title": "Artistic Transformations",
+      "category": "Art",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "HomeFixer",
+      "views": 700
+    },
+    {
+      "id": 8,
+      "title": "Wellness Journey",
+      "category": "Health",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "GreenThumb",
+      "views": 850
+    },
+    {
+      "id": 9,
+      "title": "Multilingual Science",
+      "category": "Science",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "Polyglot123",
+      "views": 950
+    },
+    {
+      "id": 10,
+      "title": "Time-Travel Adventures",
+      "category": "History",
+      "content": "Lorem ipsum dolor sit amet...",
+      "author": "GadgetGuru",
+      "views": 1300
+    }    
+  ]
+}
